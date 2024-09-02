@@ -5,7 +5,7 @@
         },
         "name": "First Club Meeting",
         "type": "talk",
-        "date": "2024",
+        "date": "9/15",
         "description": "Get to know more about what the AI club is about! Learn more about the board and future events.",
         "photo": "https://raw.githubusercontent.com/RichardGuo24/IVC-AI-Website/main/images/bestivcphoto.jpg"
     },
@@ -15,7 +15,7 @@
         },
         "name": "Guest Speaker Muhammad",
         "type": "talk",
-        "date": "2024",
+        "date": "10/23",
         "description": "Take a seat and listen to Muhammad share his experiences at Google!",
         "photo": "https://raw.githubusercontent.com/RichardGuo24/IVC-AI-Website/main/images/betterguestspeaker.jpg"
     },
@@ -25,7 +25,7 @@
         },
         "name": "Wordle AI Workshop",
         "type": "activity",
-        "date": "2024",
+        "date": "11/13",
         "description": "Learn basic python functions to build a simple AI model that automatically solves Wordle! Open to all skill levels.",
         "photo": "https://raw.githubusercontent.com/RichardGuo24/IVC-AI-Website/main/images/workshop.jpg"
     },
@@ -35,7 +35,7 @@
         },
         "name": "Winter Hackathon",
         "type": "activity",
-        "date": "2025",
+        "date": "12/11",
         "description": "Team up with people to take part in IVC Artificial Intelligence Club's first annual hackathon.",
         "photo": "https://raw.githubusercontent.com/RichardGuo24/IVC-AI-Website/main/images/hackathonphoto.jpg"
     }
